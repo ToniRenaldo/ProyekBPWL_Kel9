@@ -1,0 +1,23 @@
+studi kasus = umkm mikro bengkel -> vincent motor
+bidang otomotif
+jenis user = user biasa, admin
+table -> barang
+	 user
+	 kategori
+	 order
+hosting -> niagahoster = personal Rp.26.813
+template :
+https://www.phpjabbers.com/free-car-dealer-website-template-109.php
+hosting :
+https://www.domainesia.com/pesan&q=hosting&paket=super&siklus=12/
+
+DB & MVC (CRUD), edit template (login form, hal admin), hosting
+
+jobdesk:
+1. fanny -> CRUD, base awal, ux
+2. rey -> template
+3. toni -> template
+
+soon:
+laporan
+ppt
