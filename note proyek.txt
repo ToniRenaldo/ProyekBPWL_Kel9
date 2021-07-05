@@ -11,12 +11,14 @@ https://www.phpjabbers.com/free-car-dealer-website-template-109.php
 hosting :
 https://www.domainesia.com/pesan&q=hosting&paket=super&siklus=12/
 
-DB & MVC (CRUD), edit template (login form, hal admin), hosting
+create DB & use MVC (CI/laravel 8), edit template (login form, hal admin), hosting
 
 jobdesk:
 1. fanny -> CRUD, base awal, ux
 2. rey -> template
 3. toni -> template
+
+ref -> https://montir.id/, https://supercar.id/, https://www.go-mekanik.com/
 
 soon:
 laporan
